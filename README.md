@@ -17,5 +17,5 @@
 ### 🔗 Connect with Me
 - 📧 [codecraftcorner@gmail.com](mailto:codecraftcorner@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/anvit2512/)
-- 📺 [YouTube - CodeCraft Corner](https://www.youtube.com/@codecraftcorner)
+- 📺 [YouTube - CodeCraft Corner](https://www.youtube.com/@Anvit2512)
 
