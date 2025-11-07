@@ -19,3 +19,5 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/anvit2512/)
 - 📺 [YouTube - CodeCraft Corner](https://www.youtube.com/@Anvit2512)
 
+### 🧠 Languages I Use
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvit2512&layout=compact&theme=tokyonight)
