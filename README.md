@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Anvit2512/anvit2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Anvit Kumar
 
-Here are some ideas to get you started:
+🎓 BE Computer Science @ Thapar University  
+💡 Passionate about AI, Cloud & Distributed Systems  
+🏆 SSOC Contributor | Govt Funded Innovator  
+🚀 Building projects in Machine Learning, Flutter, and Backend Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Python, Dart, JavaScript, C++
+- **Frameworks:** Flask, Django, Flutter, React
+- **Databases:** Firebase, MySQL, Oracle
+- **Tools:** Git, Docker, VS Code, Postman
+
+### 📊 GitHub Stats
+![Anvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvit2512&show_icons=true&theme=radical)
+
+### 🔗 Connect with Me
+- 📧 [codecraftcorner@gmail.com](mailto:codecraftcorner@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anvit2512/)
+- 📺 [YouTube - CodeCraft Corner](https://www.youtube.com/@codecraftcorner)
+
