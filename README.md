@@ -3,7 +3,7 @@
 🎓 BE Computer Science @ Thapar University  
 💡 Passionate about AI, Cloud & Distributed Systems  
 🏆 SSOC Contributor | Govt Funded Innovator  
-🚀 Building projects in Machine Learning, Flutter, and Backend Systems  
+🚀 Building projects in Machine Learning, and Backend Systems  
 
 ### 🧰 Tech Stack
 - **Languages:** Python, Kivy, C++, GO, Rust, C
