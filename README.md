@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Anvit Kumar
 
 🎓 BE Computer Science @ Thapar University  
@@ -8,7 +6,7 @@
 🚀 Building projects in Machine Learning, Flutter, and Backend Systems  
 
 ### 🧰 Tech Stack
-- **Languages:** Python, Dart, JavaScript, C++
+- **Languages:** Python, Kivy, C++, GO, Rust, C
 - **Frameworks:** Flask, Django, Flutter, React
 - **Databases:** Firebase, MySQL, Oracle
 - **Tools:** Git, Docker, VS Code, Postman
