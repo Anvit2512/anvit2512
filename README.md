@@ -16,7 +16,7 @@
 
 ### 🔗 Connect with Me
 - 📧 [codecraftcorner@gmail.com](mailto:codecraftcorner@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/anvit2512/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anvit-kumar-049346263/)
 - 📺 [YouTube - CodeCraft Corner](https://www.youtube.com/@Anvit2512)
 
 ### 🧠 Languages I Use
